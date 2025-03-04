@@ -1,9 +1,9 @@
 ---
 title: Manage packaged apps with AppLocker
 description: Learn concepts and lists procedures to help you manage packaged apps with AppLocker as part of your overall application control strategy.
-ms.localizationpriority: medium
+ms.localizationpriority: small
 ms.topic: how-to
-ms.date: 09/11/2024
+ms.date: 06/11/2020
 ---
 
 # Manage packaged apps with AppLocker
